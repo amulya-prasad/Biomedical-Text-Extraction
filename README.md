@@ -59,4 +59,5 @@ The repository is organized as follows:
 You can view the exploratory data analysis on nbviewer: [Pubmed_EDA_part2.ipynb](https://nbviewer.org/github/amulya-incorrigible/Biomedical-Text-Extraction/blob/main/pubmed/Notebooks/Pubmed_EDA_part2.ipynb)
 
 
+To understand the project in detail please refer to this medium blog : https://medium.com/@fhirshotlearning/harnessing-pubmed-a-deep-dive-in-medical-knowledge-extraction-powered-by-llms-4e895b4f0839
 
